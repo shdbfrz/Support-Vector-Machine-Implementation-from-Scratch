@@ -318,11 +318,11 @@ Shows the density distribution between Sepal Length and Sepal Width for Setosa f
 
 # 👨‍💻 Author
 
-**Your Name**
+**Shadab Firoz**
 
 Machine Learning • Data Science • AI
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/shdbfrz
 
 ---
 
